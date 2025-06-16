@@ -8,13 +8,13 @@ The HiAE is an AES-based AEAD cipher that mainly focuses on cross-platform effic
 
 #### XAXX Structure
 
-![XAXX.drawio](image/README/XAXX.drawio.png)
+![XAXX.drawio](XAXX.drawio.png)
 
 ## Speed Benchmark
 
 View the full speed benchmark [here](https://concyclics.github.io/HiAE/Speed/speed.html)
 
-![speed](image/README/Throughput.png)
+![speed](Throughput.png)
 
 #### Bench HiAE on your machine
 
