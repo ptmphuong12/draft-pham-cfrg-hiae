@@ -1,6 +1,10 @@
 ## HiAE: A High-Throughput Authenticated Encryption Algorithm for Cross-Platform Efficiency
 
-Official implementation of paper "[HiAE: A High-Throughput Authenticated Encryption Algorithm for Cross-Platform Efficiency](https://eprint.iacr.org/2025/377)"
+This is the working area for the IETF Draft: "The Fast Software Authenticated Encryption HiAE"
+
+DataTracker Page: https://datatracker.ietf.org/doc/draft-pham-cfrg-hiae/
+White Paper "[HiAE: A High-Throughput Authenticated Encryption Algorithm for Cross-Platform Efficiency](https://eprint.iacr.org/2025/377)"
+Official Implementation: https://github.com/Concyclics/HiAE/tree/main
 
 ## Design Rational
 
