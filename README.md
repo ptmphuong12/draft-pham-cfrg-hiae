@@ -9,6 +9,7 @@ White Paper "[HiAE: A High-Throughput Authenticated Encryption Algorithm for Cro
 ## Known Implementatio
 
 Official Implementation: https://github.com/Concyclics/HiAE/tree/main
+
 Zig language: https://github.com/jedisct1/zig-hiae
 
 ## Design Rational
