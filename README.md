@@ -92,14 +92,8 @@ Speed: 0.008801 GB/s
 ```
 
 
-## Cite This Work
+## Contributing
 
-```
-@misc{HiAE,
-      author = {Han Chen and Tao Huang and Phuong Pham and Shuang Wu},
-      title = {HiAE: A High-Throughput Authenticated Encryption Algorithm for Cross-Platform Efficiency},
-      howpublished = {Cryptology {ePrint} Archive, Paper 2025/377},
-      year = {2025},
-      url = {https://eprint.iacr.org/2025/377}
-}
-```
+Contributions can be made by creating pull requests or contact the authors.
+
+
