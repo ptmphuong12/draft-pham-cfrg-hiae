@@ -114,7 +114,7 @@ informative:
 
 --- abstract
 
-This document describes the high throughput authenticated encryption algorithm HiAE designed for new wireless generation 6G and data transimission applications.
+This document describes the high throughput authenticated encryption algorithm HiAE designed for new wireless generation 6G and data transmission applications.
 
 --- middle
 
